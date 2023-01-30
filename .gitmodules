@@ -302,10 +302,6 @@
 	path = report/editdates
 	url = https://github.com/moodleou/moodle-report_editdates.git
 	branch = main
-[submodule "report/filetrash"]
-	path = report/filetrash
-	url = https://github.com/aspark21/moodle-report_filetrash.git
-	branch = patch-1
 [submodule "report/myfeedback"]
 	path = report/myfeedback
 	url = https://github.com/uclmoodle/moodle-report_myfeedback.git
