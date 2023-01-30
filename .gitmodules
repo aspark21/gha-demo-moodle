@@ -1,0 +1,344 @@
+[submodule "blocks/admin_presets"]
+	path = blocks/admin_presets
+	url = https://github.com/DigiDago/moodle-block_admin_presets.git
+	branch = master
+[submodule "blocks/attendance"]
+	path = blocks/attendance
+	url = https://github.com/danmarsden/moodle-block_attendance.git
+	branch = main
+[submodule "blocks/checklist"]
+	path = blocks/checklist
+	url = https://github.com/davosmith/moodle-block_checklist.git
+	branch = master
+[submodule "blocks/news_slider"]
+	path = blocks/news_slider
+	url = https://bitbucket.org/covuni/moodle-block_news_slider.git
+	branch = master
+[submodule "blocks/massaction"]
+	path = blocks/massaction
+	url = https://github.com/Syxton/moodle-block_massaction.git
+	branch = master
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid.git
+	branch = master
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+	branch = master
+[submodule "enrol/dbuserrel"]
+	path = enrol/dbuserrel
+	url = https://github.com/uclmoodle/moodle-enrol_dbuserrel.git
+	branch = main
+[submodule "filter/embedquestion"]
+	path = filter/embedquestion
+	url = https://github.com/moodleou/moodle-filter_embedquestion.git
+	branch = main
+[submodule "filter/ally"]
+	path = filter/ally
+	url = https://github.com/blackboard-open-source/moodle-filter_ally.git
+	branch = master
+[submodule "files/converter/onedrive"]
+	path = files/converter/onedrive
+	url = https://bitbucket.org/uonmoodle/moodle-fileconverter_onedrive.git
+	branch = master
+[submodule "files/converter/librelambda"]
+	path = files/converter/librelambda
+	url = https://github.com/catalyst/moodle-fileconverter_librelambda.git
+	branch = master
+[submodule "local/aws"]
+	path = local/aws
+	url = https://github.com/catalyst/moodle-local_aws.git
+	branch = master
+[submodule "grade/export/checklist"]
+	path = grade/export/checklist
+	url = https://github.com/davosmith/moodle-grade_checklist.git
+	branch = master
+[submodule "lib/editor/atto/plugins/chemistry"]
+	path = lib/editor/atto/plugins/chemistry
+	url = https://github.com/geoffrowland/moodle-editor_atto-chemistry.git
+	branch = master
+[submodule "lib/editor/atto/plugins/embedquestion"]
+	path = lib/editor/atto/plugins/embedquestion
+	url = https://github.com/moodleou/moodle-atto_embedquestion.git
+	branch = main
+[submodule "lib/editor/atto/plugins/fontfamily"]
+	path = lib/editor/atto/plugins/fontfamily
+	url = https://github.com/projectestac/moodle-atto_fontfamily.git
+	branch = master
+[submodule "lib/editor/atto/plugins/fontsize"]
+	path = lib/editor/atto/plugins/fontsize
+	url = https://github.com/andrewnicols/moodle-atto_fontsize.git
+	branch = master
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
+[submodule "lib/editor/atto/plugins/htmlplus"]
+	path = lib/editor/atto/plugins/htmlplus
+	url = https://github.com/andrewnicols/moodle-atto_htmlplus.git
+	branch = master
+[submodule "lib/editor/atto/plugins/morefontcolors"]
+	path = lib/editor/atto/plugins/morefontcolors
+	url = https://github.com/ndunand/moodle-atto_morefontcolors.git
+	branch = master
+[submodule "lib/editor/atto/plugins/helixatto"]
+	path = lib/editor/atto/plugins/helixatto
+	url = https://github.com/streamingltd/MEDIAL-Moodle-ATTO.git
+	branch = master
+[submodule "local/analytics"]
+	path = local/analytics
+	url = https://github.com/bmbrands/moodle-local_analytics.git
+	branch = master
+[submodule "local/codechecker"]
+	path = local/codechecker
+	url = https://github.com/moodlehq/moodle-local_codechecker.git
+	branch = master
+[submodule "local/mass_enroll"]
+	path = local/mass_enroll
+	url = https://github.com/rogiervandongen/moodle-local_mass_enroll.git
+	branch = master
+[submodule "local/o365"]
+	path = local/o365
+	url = https://github.com/Microsoft/moodle-local_o365.git
+	branch = master
+[submodule "local/cohortrole"]
+	path = local/cohortrole
+	url = https://github.com/paulholden/moodle-local_cohortrole.git
+	branch = master
+[submodule "local/accessibilitytool"]
+	path = local/accessibilitytool
+	url = https://github.com/sharpchi/moodle-local_accessibilitytool.git
+	branch = master
+[submodule "mod/aspirelist"]
+	path = mod/aspirelist
+	url = https://github.com/tonyjbutler/moodle-mod_aspirelist.git
+	branch = master
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
+[submodule "mod/assign/feedback/helixfeedback"]
+	path = mod/assign/feedback/helixfeedback
+	url = https://github.com/streamingltd/MEDIAL-Moodle-Feedback.git
+	branch = master
+[submodule "mod/assign/submission/helixassign"]
+	path = mod/assign/submission/helixassign
+	url = https://github.com/streamingltd/MEDIAL-Moodle-Submission.git
+	branch = master
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+	branch = MOODLE_401_STABLE
+[submodule "mod/board"]
+	path = mod/board
+	url = https://github.com/brickfield/moodle-mod_board.git
+	branch = main
+[submodule "mod/book/tool/wordimport"]
+	path = mod/book/tool/wordimport
+	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
+	branch = master
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+	branch = master
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/markn86/moodle-mod_customcert
+	branch = MOODLE_400_STABLE
+[submodule "mod/choicegroup"]
+	path = mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+	branch = master
+[submodule "mod/helixmedia"]
+	path = mod/helixmedia
+	url = https://github.com/streamingltd/MEDIAL-Moodle-Activity.git
+	branch = master
+[submodule "mod/hotpot"]
+	path = mod/hotpot
+	url = https://github.com/gbateson/moodle-mod_hotpot.git
+	branch = master
+[submodule "mod/hotquestion"]
+	path = mod/hotquestion
+	url = https://github.com/drachels/moodle-mod_hotquestion.git
+	branch = master
+[submodule "mod/lightboxgallery"]
+	path = mod/lightboxgallery
+	url = https://github.com/netspotau/moodle-mod_lightboxgallery.git
+	branch = master
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = main
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = master
+[submodule "mod/zoom"]
+	path = mod/zoom
+	url = https://github.com/ncstate-delta/moodle-mod_zoom.git
+	branch = main
+[submodule "question/behaviour/regexpadaptivewithhelp"]
+	path = question/behaviour/regexpadaptivewithhelp
+	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelp.git
+	branch = master
+[submodule "question/behaviour/regexpadaptivewithhelpnopenalty"]
+	path = question/behaviour/regexpadaptivewithhelpnopenalty
+	url = https://github.com/rezeau/moodle-qbehaviour_regexpadaptivewithhelpnopenalty.git
+	branch = master
+[submodule "question/format/hotpot"]
+	path = question/format/hotpot
+	url = https://github.com/AdilIqbal95/moodle-qformat_hotpot.git
+	branch = master
+[submodule "question/format/wordtable"]
+	path = question/format/wordtable
+	url = https://github.com/aspark21/moodle-qformat_wordtable.git
+	branch = patch-1
+[submodule "question/type/algebra"]
+	path = question/type/algebra
+	url = https://github.com/jmvedrine/moodle-qtype_algebra.git
+	branch = master
+[submodule "question/type/ddmatch"]
+	path = question/type/ddmatch
+	url = https://github.com/ehsan42/Drag-and-Drop-Matching.git
+	branch = fixes
+[submodule "question/type/drawing"]
+	path = question/type/drawing
+	url = https://github.com/ethz-let/moodle-qtype_drawing.git
+	branch = master
+[submodule "question/type/gapfill"]
+	path = question/type/gapfill
+	url = https://github.com/marcusgreen/moodle-qtype_gapfill.git
+	branch = master
+[submodule "question/type/mtf"]
+	path = question/type/mtf
+	url = https://github.com/ethz-let/qtype_mtf.git
+	branch = master
+[submodule "question/type/multichoiceset"]
+	path = question/type/multichoiceset
+	url = https://github.com/ecampbell/moodle-qtype_multichoiceset.git
+	branch = master
+[submodule "question/type/multinumerical"]
+	path = question/type/multinumerical
+	url = https://github.com/ndunand/moodle-qtype_multinumerical.git
+	branch = master
+[submodule "question/type/pmatch"]
+	path = question/type/pmatch
+	url = https://github.com/moodleou/moodle-qtype_pmatch.git
+	branch = main
+[submodule "question/type/pmatchjme"]
+	path = question/type/pmatchjme
+	url = https://github.com/moodleou/moodle-qtype_pmatchjme.git
+	branch = main
+[submodule "question/type/regexp"]
+	path = question/type/regexp
+	url = https://github.com/rezeau/moodle-qtype_regexp.git
+	branch = master
+[submodule "question/type/varnumericset"]
+	path = question/type/varnumericset
+	url = https://github.com/moodleou/moodle-qtype_varnumericset.git
+	branch = main
+[submodule "question/type/varnumunit"]
+	path = question/type/varnumunit
+	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
+	branch = main
+[submodule "question/behaviour/dfexplicitvaildate"]
+	path = question/behaviour/dfexplicitvaildate
+	url = https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git
+	branch = master
+[submodule "question/behaviour/dfcbmexplicitvaildate"]
+	path = question/behaviour/dfcbmexplicitvaildate
+	url = https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git
+	branch = master
+[submodule "question/behaviour/adaptivemultipart"]
+	path = question/behaviour/adaptivemultipart
+	url = https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git
+	branch = master
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = https://github.com/ehsan42/moodle-tool_mergeusers.git
+	branch = CTP819-phpunit-fixes
+[submodule "admin/tool/ally"]
+	path = admin/tool/ally
+	url = https://github.com/blackboard-open-source/moodle-tool_ally.git
+	branch = master
+[submodule "admin/tool/abconfig"]
+	path = admin/tool/abconfig
+	url = https://github.com/catalyst/moodle-tool_abconfig.git
+	branch = MOODLE_38_STABLE
+[submodule "admin/tool/crawler"]
+	path = admin/tool/crawler
+	url = https://github.com/catalyst/moodle-tool_crawler.git
+	branch = MOODLE_310_STABLE
+[submodule "admin/tool/dataflows"]
+	path = admin/tool/dataflows
+	url = https://github.com/catalyst/moodle-tool_dataflows.git
+	branch = MOODLE_35_STABLE
+[submodule "admin/tool/forcedcache"]
+	path = admin/tool/forcedcache
+	url = https://github.com/catalyst/moodle-tool_forcedcache.git
+	branch = MOODLE_40_STABLE
+[submodule "admin/tool/heartbeat"]
+	path = admin/tool/heartbeat
+	url = https://github.com/catalyst/moodle-tool_heartbeat.git
+	branch = master
+[submodule "admin/tool/lockstats"]
+	path = admin/tool/lockstats
+	url = https://github.com/catalyst/moodle-tool_lockstats.git
+	branch = MOODLE_310_STABLE
+[submodule "admin/tool/objectfs"]
+	path = admin/tool/objectfs
+	url = https://github.com/catalyst/moodle-tool_objectfs.git
+	branch = MOODLE_310_STABLE
+[submodule "report/componentgrades"]
+	path = report/componentgrades
+	url = https://github.com/pauln/moodle-report_componentgrades.git
+	branch = master
+[submodule "report/customsql"]
+	path = report/customsql
+	url = https://github.com/moodleou/moodle-report_customsql.git
+	branch = main
+[submodule "report/editdates"]
+	path = report/editdates
+	url = https://github.com/moodleou/moodle-report_editdates.git
+	branch = main
+[submodule "report/filetrash"]
+	path = report/filetrash
+	url = https://github.com/aspark21/moodle-report_filetrash.git
+	branch = patch-1
+[submodule "report/myfeedback"]
+	path = report/myfeedback
+	url = https://github.com/uclmoodle/moodle-report_myfeedback.git
+	branch = main
+[submodule "report/apocalypse"]
+	path = report/apocalypse
+	url = https://github.com/catalyst/moodle-report_apocalypse.git
+	branch = master
+[submodule "report/allylti"]
+	path = report/allylti
+	url = https://github.com/blackboard-open-source/moodle-report_allylti.git
+	branch = master
+[submodule "report/embedquestion"]
+	path = report/embedquestion
+	url = https://github.com/moodleou/moodle-report_embedquestion.git
+	branch = main
+[submodule "search/engine/elastic"]
+	path = search/engine/elastic
+	url = https://github.com/catalyst/moodle-search_elastic.git
+	branch = MOODLE_310_STABLE
+[submodule "auth/basic"]
+	path = auth/basic
+	url = https://github.com/catalyst/moodle-auth_basic.git
+	branch = MOODLE_310_STABLE
+[submodule "auth/oidc"]
+	path = auth/oidc
+	url = https://github.com/Microsoft/moodle-auth_oidc.git
+	branch = master
+[submodule "auth/outage"]
+	path = auth/outage
+	url = https://github.com/catalyst/moodle-auth_outage.git
+	branch = MOODLE_39_STABLE
+[submodule "blocks/sharing_cart"]
+	path = blocks/sharing_cart
+	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
+	branch = master
